@@ -33,6 +33,10 @@ DSA in CPP
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0169-majority-element) |
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0169-majority-element) |
 ## BoyerâMoore Majority Vote Algorithm
 |  |
 | ------- |
