@@ -11,6 +11,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
