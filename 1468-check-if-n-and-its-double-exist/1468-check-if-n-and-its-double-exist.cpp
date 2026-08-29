@@ -1,14 +1,13 @@
 class Solution {
 public:
     bool checkIfExist(vector<int>& arr) {
-        for(int i = 0; i < arr.size(); i++){
-            int num = arr[i]*2;
-            auto j = find(arr.begin(), arr.end(), num);
-            if(j != arr.end()){
-                if(i != j - arr.begin()){
-                  return 1;
-                }
+        unordered_set<int> visited;
+
+        for(int x : arr){
+            if(visited.count(x * 2) || (visited.count(x / 2) && x % 2 == 0)){
+                return 1;
             }
+            visited.insert(x);
         }
         return 0;
     }
