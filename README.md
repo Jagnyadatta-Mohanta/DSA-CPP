@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0414-third-maximum-number) |
@@ -35,6 +36,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1603-running-sum-of-1d-array) |
 ## Sorting
