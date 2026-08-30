@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0053-maximum-subarray) |
@@ -34,6 +35,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0027-remove-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -46,6 +48,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0414-third-maximum-number) |
