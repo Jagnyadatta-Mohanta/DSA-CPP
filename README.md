@@ -14,6 +14,7 @@
 | [0118-pascals-triangle](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0164-maximum-gap](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0015-3sum) |
+| [0164-maximum-gap](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0414-third-maximum-number) |
@@ -96,4 +98,16 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0042-trapping-rain-water) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
