@@ -1,27 +1,20 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        unordered_map<char, int> map1;
-        unordered_map<char, int> map2;
+        int vote[26] = {0};
 
         for (char x : s) {
-            map1[x]++;
+            vote[x - 'a']++;
         }
 
         for (char y : t) {
-            map2[y]++;
+            vote[y - 'a']--;
         }
-
-        if (map1.size() != map2.size()) {
-            return false;
-        }
-
-        for (auto& pair : map1) {
-            if (map2[pair.first] != pair.second) {
+        for (int x : vote) {
+            if (x != 0) {
                 return false;
             }
         }
-
         return true;
     }
 };
