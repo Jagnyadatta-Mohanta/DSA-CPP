@@ -45,6 +45,7 @@
 | [0027-remove-element](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0680-valid-palindrome-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
 | ------- |
@@ -116,4 +118,5 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0242-valid-anagram) |
+| [0680-valid-palindrome-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
