@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
@@ -122,7 +123,12 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
