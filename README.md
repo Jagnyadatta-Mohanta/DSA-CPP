@@ -27,6 +27,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1580-shuffle-the-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1603-running-sum-of-1d-array) |
+| [4256-construct-uniform-parity-array-i](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4256-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0268-missing-number) |
+| [4256-construct-uniform-parity-array-i](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4256-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
