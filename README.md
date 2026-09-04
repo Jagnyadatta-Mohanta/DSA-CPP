@@ -30,6 +30,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0697-degree-of-an-array) |
+| [0713-subarray-product-less-than-k](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1603-running-sum-of-1d-array) |
@@ -109,6 +111,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
@@ -156,5 +159,6 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
