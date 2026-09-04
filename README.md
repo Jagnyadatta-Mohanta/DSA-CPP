@@ -22,6 +22,7 @@
 | [0164-maximum-gap](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0164-maximum-gap) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0414-third-maximum-number) |
@@ -158,7 +159,24 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1046-max-consecutive-ones-iii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
