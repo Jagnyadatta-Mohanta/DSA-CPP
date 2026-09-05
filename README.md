@@ -40,6 +40,7 @@
 | [4256-construct-uniform-parity-array-i](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4285-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1603-running-sum-of-1d-array) |
 | [4284-smallest-stable-index-i](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4285-smallest-stable-index-ii) |
 ## Sorting
 |  |
 | ------- |
