@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0136-single-number) |
@@ -85,6 +86,7 @@
 | [0015-3sum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0268-missing-number) |
@@ -96,6 +98,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -156,6 +159,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0344-reverse-string) |
