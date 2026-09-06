@@ -100,6 +100,7 @@
 | [0268-missing-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0697-degree-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -160,6 +161,7 @@
 | [0344-reverse-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -194,4 +197,5 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
