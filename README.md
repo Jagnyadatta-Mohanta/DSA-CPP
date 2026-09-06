@@ -64,6 +64,7 @@
 | [0042-trapping-rain-water](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -157,6 +158,7 @@
 | [0125-valid-palindrome](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0383-ransom-note) |
 | [0680-valid-palindrome-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
 ## Trie
