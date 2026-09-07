@@ -49,6 +49,7 @@
 | [0053-maximum-subarray](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0152-maximum-product-subarray) |
+| [0977-distinct-subsequences-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0977-distinct-subsequences-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [0383-ransom-note](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
+| [0977-distinct-subsequences-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0977-distinct-subsequences-ii) |
 ## Trie
 |  |
 | ------- |
