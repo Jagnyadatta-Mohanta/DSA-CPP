@@ -39,6 +39,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1580-shuffle-the-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1603-running-sum-of-1d-array) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/3799-unique-3-digit-even-numbers) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4284-smallest-stable-index-i) |
@@ -109,6 +110,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0697-degree-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/3799-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -220,4 +222,12 @@
 |  |
 | ------- |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/3799-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
