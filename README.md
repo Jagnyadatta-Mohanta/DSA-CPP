@@ -72,6 +72,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1894-merge-strings-alternately](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1894-merge-strings-alternately) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
 | [0977-distinct-subsequences-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0977-distinct-subsequences-ii) |
+| [1894-merge-strings-alternately](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
