@@ -40,6 +40,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1580-shuffle-the-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1603-running-sum-of-1d-array) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/3799-unique-3-digit-even-numbers) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -53,6 +54,7 @@
 | [0118-pascals-triangle](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0977-distinct-subsequences-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0977-distinct-subsequences-ii) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0414-third-maximum-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
