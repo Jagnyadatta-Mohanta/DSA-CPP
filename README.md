@@ -36,6 +36,7 @@
 | [0697-degree-of-an-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0724-find-pivot-index) |
+| [0864-image-overlap](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0864-image-overlap) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1580-shuffle-the-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1580-shuffle-the-array) |
@@ -241,4 +242,8 @@
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/3799-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0864-image-overlap](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0864-image-overlap) |
 <!---LeetCode Topics End-->
