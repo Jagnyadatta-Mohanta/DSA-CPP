@@ -55,6 +55,7 @@
 | [0118-pascals-triangle](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0977-distinct-subsequences-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0977-distinct-subsequences-ii) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
@@ -90,6 +91,7 @@
 | [0724-find-pivot-index](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1603-running-sum-of-1d-array) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4284-smallest-stable-index-i](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4285-smallest-stable-index-ii) |
 ## Sorting
@@ -126,6 +128,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0268-missing-number) |
 | [0866-rectangle-overlap](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0866-rectangle-overlap) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4245-count-commas-in-range](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4256-construct-uniform-parity-array-i) |
@@ -255,4 +258,8 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0866-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
