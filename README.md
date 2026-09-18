@@ -107,6 +107,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0414-third-maximum-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
@@ -122,6 +123,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0697-degree-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/3799-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -156,6 +158,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
@@ -192,6 +195,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
 | [0977-distinct-subsequences-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0977-distinct-subsequences-ii) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2128-reverse-prefix-of-word) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
