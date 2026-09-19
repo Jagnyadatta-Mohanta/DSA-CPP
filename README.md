@@ -130,6 +130,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0268-missing-number) |
 | [0866-rectangle-overlap](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4245-count-commas-in-range](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/4248-count-commas-in-range-ii) |
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1501-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
