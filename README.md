@@ -177,6 +177,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0042-trapping-rain-water) |
 | [1188-brace-expansion-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1188-brace-expansion-ii) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
@@ -209,6 +210,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
 | [0977-distinct-subsequences-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0977-distinct-subsequences-ii) |
 | [1188-brace-expansion-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1188-brace-expansion-ii) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1894-merge-strings-alternately) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -294,4 +296,8 @@
 |  |
 | ------- |
 | [1188-brace-expansion-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1188-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
