@@ -55,6 +55,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0118-pascals-triangle) |
@@ -206,6 +207,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0242-valid-anagram) |
@@ -300,6 +302,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0022-generate-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1188-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
@@ -309,6 +312,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0022-generate-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
