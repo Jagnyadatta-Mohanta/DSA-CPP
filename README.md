@@ -61,6 +61,7 @@
 | [0053-maximum-subarray](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0678-valid-parenthesis-string) |
 | [0977-distinct-subsequences-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0977-distinct-subsequences-ii) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -182,6 +184,7 @@
 | [0020-valid-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0678-valid-parenthesis-string) |
 | [1188-brace-expansion-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -218,6 +221,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
 | [0977-distinct-subsequences-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0977-distinct-subsequences-ii) |
 | [1188-brace-expansion-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1188-brace-expansion-ii) |
@@ -317,6 +321,7 @@
 | [0020-valid-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0678-valid-parenthesis-string) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
