@@ -176,6 +176,7 @@
 | [0011-container-with-most-water](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
@@ -186,6 +187,7 @@
 | [0042-trapping-rain-water](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1188-brace-expansion-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -225,6 +227,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
 | [0886-score-of-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0977-distinct-subsequences-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0977-distinct-subsequences-ii) |
 | [1188-brace-expansion-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -325,6 +328,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
