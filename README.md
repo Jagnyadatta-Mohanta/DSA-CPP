@@ -220,6 +220,7 @@
 | [0049-group-anagrams](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0383-ransom-note) |
@@ -315,10 +316,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1188-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1188-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
