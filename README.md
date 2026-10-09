@@ -178,6 +178,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
@@ -192,6 +193,7 @@
 | [1188-brace-expansion-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
@@ -236,6 +238,7 @@
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1894-merge-strings-alternately) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -337,6 +340,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1078-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
