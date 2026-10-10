@@ -43,6 +43,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1603-running-sum-of-1d-array) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/3799-unique-3-digit-even-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/3831-find-x-value-of-array-i) |
@@ -119,6 +120,7 @@
 | [1188-brace-expansion-ii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1188-brace-expansion-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
@@ -165,6 +167,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -179,6 +182,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
@@ -266,6 +270,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/0239-sliding-window-maximum) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Jagnyadatta-Mohanta/DSA-CPP/tree/master/2418-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
 | ------- |
